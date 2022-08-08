@@ -2,7 +2,7 @@
 ## General-Purpose Programming Language
 
 ### Usage
-First, download Alg [here](https://alglanguage.github.io/download) and unzip it.
+First, download Alg [here](https://github.com/alglanguage/alglanguage.github.io/blob/main/ALG%20FOR%20WINDOWS.zip?raw=true) and unzip it.
 Then, open Command Prompt and use the command:
 ```
 alg filename.alg
