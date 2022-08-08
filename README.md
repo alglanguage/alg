@@ -2,7 +2,8 @@
 ## General-Purpose Programming Language
 
 ### Usage
-Open Command Prompt and use the command:
+First, download Alg [here](https://alglanguage.github.io/download) and unzip it.
+Then, open Command Prompt and use the command:
 ```
 alg filename.alg
 ```
