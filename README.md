@@ -32,5 +32,13 @@ if a == 11 {
 ```
 More examples are available in the examples folder.
 
+### Built-In Functions, Keywords, & Datatypes
+```
+KEYWORDS = ["function","class","if","for","else","True","False","print","bool","int","str"]
+BUILT_IN_FUNCTIONS = ["print"]
+DATATYPE = ["bool","int","str"]
+```
+Also in constants.py
+
 ### Docs
 Documentation and support for Alg is available [here](https://alglanguage.github.io/docs).
