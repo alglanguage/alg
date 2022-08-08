@@ -7,3 +7,6 @@ Then, open Command Prompt and use the command:
 ```
 alg filename.alg
 ```
+
+### Docs
+Documentation for Alg is available [here](https://alglanguage.github.io/docs)
