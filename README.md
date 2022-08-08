@@ -40,5 +40,8 @@ DATATYPE = ["bool","int","str"]
 ```
 Also in constants.py
 
+### IDE
+There is currently no official IDE for Alg. There may be third-party IDE's but they are not endorsed or sponsored by Alg's creator.
+
 ### Docs
 Documentation and support for Alg is available [here](https://alglanguage.github.io/docs).
