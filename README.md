@@ -9,4 +9,4 @@ alg filename.alg
 ```
 
 ### Docs
-Documentation for Alg is available [here](https://alglanguage.github.io/docs)
+Documentation and support for Alg is available [here](https://alglanguage.github.io/docs).
